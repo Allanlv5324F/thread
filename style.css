@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h2{
+    display: inline;
+    font-family: system-ui;
+}
+
+.heading button{
+    border: 3px solid white;
+    float: right;
+}
+
+#start, #status{
+    font-family: monospace;
+    font-size: 22px;
+}
